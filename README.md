@@ -1,12 +1,11 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Jhonatan Souza
 
-Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor [sua área de atuação, ex: full-stack] apaixonado por criar soluções criativas e eficientes. Aqui você encontrará projetos que refletem meu aprendizado, experiência e entusiasmo por tecnologia.
+Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor FullStack apaixonado por criar soluções criativas e eficientes. Aqui você encontrará projetos que refletem meu aprendizado, experiência e entusiasmo por tecnologia.
 
 ---
 
 ## 🚀 Sobre mim
 - 💻 Atuo como freelancer e estou em busca de colaborar com equipes incríveis.
-- 📚 Sempre aprendendo algo novo! Atualmente, estou me aprofundando em [tecnologias ou áreas de estudo].
 - 🎯 Meu objetivo é entregar soluções que fazem a diferença, com qualidade e inovação.
 
 ---
@@ -17,6 +16,7 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor [sua área de atuação, ex
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -25,22 +25,20 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor [sua área de atuação, ex
 ---
 
 ## 🌟 Projetos em Destaque
-- [**Plataforma de Locação de Hotéis**](https://github.com/seuperfil/hotel-booking)  
-  Sistema desenvolvido com Java (Spring) e React, com integração de API de pagamento e funcionalidade de agendamento.
+- [**Paint Web**](https://spark2617.github.io/paint/)  
+  Desenvolvi um paint web simples que permite desenhar diretamente no navegador. O projeto inclui ferramentas básicas
   
-- [**Sincronização de Banco de Dados**](https://github.com/seuperfil/db-sync-system)  
-  Ferramenta para manter bancos locais sincronizados com a nuvem, garantindo consistência e evitando conflitos.
+- [**Interface Deezer**](https://spark2617.github.io/Interface-Deezer/)  
+  Criei uma interface com base no design do Deezer, reproduzindo sua estética. 
 
-- [**Site de Agendamento para Barbearias**](https://github.com/seuperfil/barber-schedule)  
-  Aplicação responsiva em HTML, CSS e Bootstrap para gerenciamento de agendamentos.
+- [**Pokemon-API**](https://spark2617.github.io/Pokemon-API/)  
+  Desenvolvi uma interface interativa utilizando a API Pokémon, permitindo explorar detalhes dos Pokémon de forma dinâmica. O projeto inclui busca por nome ou ID, exibição de informações como habilidades, tipos e status, além de um design intuitivo e responsivo, ideal para fãs e exploradores do universo Pokémon.
 
 ---
 
 ## 📬 Vamos Conectar?
-- 🌐 [Meu Portfólio](https://seuportfolio.com)
-- 📧 E-mail: [seuemail@email.com](mailto:seuemail@email.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seuperfil)
-- 🐦 [Twitter](https://twitter.com/seuperfil)
+- 📧 E-mail: [jhonatandesouzade13@gmail.com](jhonatandesouzade13@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jhonatan-souza-653273248/)
 
 ---
 
