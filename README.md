@@ -34,6 +34,9 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor FullStack apaixonado por cr
 - [**Pokemon-API**](https://spark2617.github.io/Pokemon-API/)  
   Desenvolvi uma interface interativa utilizando a API Pokémon, permitindo explorar detalhes dos Pokémon de forma dinâmica. O projeto inclui busca por nome ou ID, exibição de informações como habilidades, tipos e status, além de um design intuitivo e responsivo, ideal para fãs e exploradores do universo Pokémon.
 
+- [**API-locação de hoteis para o Metaverso**](https://github.com/spark2617/API-Metaverso.git)  
+  Este é um projeto backend desenvolvido para um site de locação de hotéis no metaverso. O sistema permite que usuários explorem e reservem acomodações em ambientes virtuais. Ele também manipula imagens e outros recursos automatizados, utilizando serviços como AWS S3 para armazenar e gerenciar imagens.
+
 ---
 
 ## 📬 Vamos Conectar?
